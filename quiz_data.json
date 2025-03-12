@@ -1,0 +1,13 @@
+[
+    {"question": "what is the name of bad software?", "answer": "Malware"},
+    {"question": "What is the outcome of 10*11*0+1?", "answer": "1"},
+    {"question": "Who is the founder of facebook?", "answer": "Mark Zuckerberg"},
+    {"question": "Who is the richest man in the world?", "answer": "Elon Musk"},
+    {"question": "Who developed python?", "answer": "Guido van Rossum"},
+    {"question": "Who is the father of computer science?", "answer": "Charles Babbage"},
+    {"question": "What is the highest peak of Nepal?", "answer": "Mt Everest"},
+    {"question": "who created the first computer program?", "answer": "Ada Lovelace"},
+    {"question": "In which year Intel was established?", "answer": "1968"},
+    {"question": "Who was the Queen of UK?", "answer": "Queen Elizabeth II"}
+    
+]
